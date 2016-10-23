@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamApp1.Pages.ProductView">
+
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="85"/>
+      <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+    <Label Text="ID" />
+    <Label Text="{Binding Path=Id, Mode=OneWay}" Grid.Column="1" Grid.Row="0" />
+    <Label Text="Name" Grid.Row="1" />
+    <Entry Text="{Binding Path=Name, Mode=TwoWay}" Grid.Column="1" Grid.Row="1" Placeholder="Name" />
+    <Label Text="Price" Grid.Row="2" />
+    <Stepper Value="{Binding Path=Price, Mode=TwoWay}" Maximum="1000000" Minimum="0" Increment="1" Grid.Column="1" Grid.Row="2" />
+    <Label Text="Availability" Grid.Row="3" />
+    <DatePicker Date="{Binding Path=Availability, Mode=TwoWay, StringFormat='D'}" Format="D" Grid.Column="1" Grid.Row="3" />
+  </Grid>
+
+</ContentPage>

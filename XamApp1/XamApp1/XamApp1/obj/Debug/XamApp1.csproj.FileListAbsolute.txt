@@ -1,0 +1,10 @@
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\XamApp1.dll
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\XamApp1.pdb
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\obj\Debug\XamApp1.Pages.ProductView.xaml.g.cs
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\obj\Debug\XamApp1.dll
+C:\Temp\Philly.NetCodeCamp\XamApp1\XamApp1\XamApp1\obj\Debug\XamApp1.pdb
